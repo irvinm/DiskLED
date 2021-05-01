@@ -75,41 +75,43 @@
     <None Include="res\DiskLED.rc2">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="res\icon1.ico">
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\icon1.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon10.ico">
+    </Image>
+    <Image Include="res\icon10.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon11.ico">
+    </Image>
+    <Image Include="res\icon11.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon2.ico">
+    </Image>
+    <Image Include="res\icon2.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon3.ico">
+    </Image>
+    <Image Include="res\icon3.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon4.ico">
+    </Image>
+    <Image Include="res\icon4.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon5.ico">
+    </Image>
+    <Image Include="res\icon5.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon6.ico">
+    </Image>
+    <Image Include="res\icon6.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon7.ico">
+    </Image>
+    <Image Include="res\icon7.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon8.ico">
+    </Image>
+    <Image Include="res\icon8.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\icon9.ico">
+    </Image>
+    <Image Include="res\icon9.ico">
       <Filter>Resource Files</Filter>
-    </None>
-    <None Include="res\Main.ico">
+    </Image>
+    <Image Include="res\Main.ico">
       <Filter>Resource Files</Filter>
-    </None>
+    </Image>
   </ItemGroup>
 </Project>
